@@ -1,0 +1,2 @@
+# GiveawayDiscord.js
+usefull giveaway 
