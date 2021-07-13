@@ -14,7 +14,7 @@
 # [Easy set up!]()
 # 1: Get Your bot token [here](https://discord.com/developers/applications)
 # 2: Enable Privilleged gateway intents!
-![](https://i.gifer.com/3OC7z.gif)
+![gif](https://i.gifer.com/3OC7z.gif)
 # 3: last step in config.json put your token there
 
 
