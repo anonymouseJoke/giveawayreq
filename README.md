@@ -14,7 +14,7 @@
 # [Easy set up!]()
 # 1: Get Your bot token [here](https://discord.com/developers/applications)
 # 2: Enable Privilleged gateway intents!
-<iframe src="https://gifer.com/embed/3OC7z" width=480 height=75.231 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+![](https://gifer.com/embed/3OC7z)
 # 3: last step in config.json put your token there
 
 
