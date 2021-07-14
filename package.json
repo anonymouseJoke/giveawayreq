@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zero",
-  "license": "CC-Zero",
+  "author": "Joke",
+  "license": "CC-me",
   "keywords": [
     "discord",
     "giveaways",
@@ -28,6 +28,6 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://github.com/ZeroDiscord/Giveaway"
+    "url": "https://github.com/anonymouseJoke/giveawayreq"
   }
 }
