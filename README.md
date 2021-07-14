@@ -1,6 +1,6 @@
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/anonymouseJoke/giveawayreq) [![Run on Repl.it](https://repl.it/badge/github/anonymouseJoke/giveawayreq)](https://repl.it/github/anonymouseJoke/giveawayreq) [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anonymouseJoke/giveawayreq)
 
-# [Want One With Giveaway Requirements and Bonus Enteries?](https://github.com/anonymouseJoke/giveawayreq)
+# [Want One Without Giveaway Requirements and Bonus Enteries?](https://github.com/anonymouseJoke/giveawayreq)
 
 
 **This Giveaway bot was created by you and anonymouseJoke**
